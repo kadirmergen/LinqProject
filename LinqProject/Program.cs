@@ -30,7 +30,7 @@ namespace LinqProject
                     QuantityPerUnit="4 GB Ram", UnitPrice=8000, UnitInStock=0 }
             };
 
-            Console.WriteLine("Algoritmik------------");
+            Console.WriteLine("Algoritmik-----------");
 
             foreach (var product in products)
             {
